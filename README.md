@@ -1,6 +1,7 @@
 # [KSC 2024] MSPD: A Multi-Scale PD Network for Self-Supervised Low-Dose CT Denoising
 
 Official PyTorch implementation of "MSPD: A Multi-Scale PD Network for Self-Supervised Low-Dose CT Denoising"
+[Eunji Kim][google scholar profile link]
 
 ## PAPER
 MSPD: 자기 지도 학습 기반 저선량 CT 디노이징을 위한 다해상도 픽셀 무작위 배열 다운샘플링 네트워크
@@ -13,6 +14,15 @@ Computed Tomography(CT)는 질병 진단에 있어 필수적인 의료 영상이
 ![image](https://github.com/user-attachments/assets/7190f944-efbb-40e8-848a-2cfd8fddfc42)
 
 ## 실험 환경
-Requirements
+```
+pip install to-requirements.txt
+```
 
 ## 사용 방법
+```
+python train.py
+```
+
+```
+sbatch -p dell_rtx4090 --gres=gpu:1 train.sh
+```
