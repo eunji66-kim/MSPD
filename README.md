@@ -13,6 +13,9 @@ Computed Tomography(CT)는 질병 진단에 있어 필수적인 의료 영상이
 ## 제안 모델
 ![image](https://github.com/user-attachments/assets/7190f944-efbb-40e8-848a-2cfd8fddfc42)
 
+## 실험 결과
+![image](https://github.com/user-attachments/assets/2fa1de59-6935-46a3-85ad-bcbe3ec80a34)
+
 ## 실험 환경
 ```
 pip install to-requirements.txt
