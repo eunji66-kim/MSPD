@@ -1,0 +1,25 @@
+
+Original === 
+PSNR avg: 42.3509 
+SSIM avg: 0.9471 
+RMSE avg: 0.0001 
+LPIPS avg: 0.1632
+
+
+Predictions === 
+PSNR avg: 43.6119 
+SSIM avg: 0.9557 
+RMSE avg: 0.0000 
+LPIPS avg: 0.1288
+
+
+Original === 
+PSNR avg: 24.4688 
+SSIM avg: 0.8382 
+RMSE avg: 649.9896
+
+
+Predictions === 
+PSNR avg: 26.1598 
+SSIM avg: 0.8570 
+RMSE avg: 434.6571
