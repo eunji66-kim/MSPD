@@ -1,7 +1,8 @@
 # [KSC 2024] MSPD: A Multi-Scale PD Network for Self-Supervised Low-Dose CT Denoising
 
 Official PyTorch implementation of "MSPD: A Multi-Scale PD Network for Self-Supervised Low-Dose CT Denoising"
-[Eunji Kim][google scholar profile link]
+
+[Eunji Kim](https://scholar.google.com/citations?user=hZXSGOkAAAAJ&hl=ko)
 
 ## PAPER
 MSPD: 자기 지도 학습 기반 저선량 CT 디노이징을 위한 다해상도 픽셀 무작위 배열 다운샘플링 네트워크
