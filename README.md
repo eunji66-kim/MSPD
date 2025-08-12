@@ -32,16 +32,16 @@ Computed Tomography(CT)는 질병 진단에 있어 필수적인 의료 영상이
 
 ## Requirements
 ```
-pip install to-requirements.txt
+pip install -r requirements.txt
 ```
 
 
 ## Train
 ```
-python train_mspd.py
+python train.py
 ```
 
 ## Test
 ```
-python test_mspd.py
+python test.py
 ```
