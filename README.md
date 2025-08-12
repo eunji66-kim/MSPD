@@ -26,7 +26,3 @@ pip install to-requirements.txt
 ```
 python train.py
 ```
-
-```
-sbatch -p dell_rtx4090 --gres=gpu:1 train.sh
-```
